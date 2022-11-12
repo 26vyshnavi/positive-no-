@@ -1,0 +1,7 @@
+num = 3 
+if num > 0:
+    print("POSITIVE.")
+print("this is always printed")
+#output
+POSITIVE.
+this is always printed
